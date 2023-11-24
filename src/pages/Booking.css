@@ -1,0 +1,1227 @@
+.mapimage-icon9 {
+  position: absolute;
+  top: 51px;
+  left: 1358px;
+  border-radius: var(--br-xl);
+  width: 505px;
+  height: 383px;
+  object-fit: cover;
+}
+.blank-line27,
+.contact-us9 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.contact-us9 {
+  font-size: 34.15px;
+}
+.blank-line27 {
+  font-family: var(--font-inria-serif);
+}
+.departments-of-physical-educat9 {
+  font-size: var(--font-size-xl);
+}
+.blank-line29,
+.departments-of-physical-educat9,
+.telephone9,
+.university-of-peradeniya18 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.blank-line29,
+.telephone9 {
+  font-size: var(--font-size-11xl);
+}
+.blank-line29 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+.contact-us-departments-container9 {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  display: inline-block;
+  width: 607.8px;
+  height: 386.5px;
+}
+.callicon9,
+.locationicon9 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+.locationicon9 {
+  top: 75px;
+  width: 27.3px;
+  height: 29.4px;
+}
+.contactus9,
+.footer9 {
+  position: absolute;
+  top: 62px;
+  left: 64px;
+  width: 746px;
+  height: 387px;
+  overflow: hidden;
+}
+.footer9 {
+  top: 4687px;
+  left: 0;
+  background-color: var(--color-goldenrod);
+  width: 1917px;
+  height: 485px;
+}
+.faculty-of-physical {
+  position: absolute;
+  top: 4453px;
+  left: calc(50% - 373.5px);
+  font-size: 23.05px;
+  font-family: var(--font-inder);
+}
+.department-of-physical9 {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+.university-of-peradeniya19 {
+  margin: 0;
+  font-size: 34.15px;
+}
+.department-of-physical-container9 {
+  position: absolute;
+  top: 75px;
+  left: calc(50% - 361.5px);
+  display: inline-block;
+  width: 1117.3px;
+  height: 129.8px;
+  text-shadow: 8px 8px 5px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 0.7px #000;
+}
+.headerback9 {
+  position: absolute;
+  top: 0;
+  left: 367px;
+  background-color: var(--color-khaki);
+  width: 1550px;
+  height: 259px;
+}
+.unilogo-icon9 {
+  position: absolute;
+  top: 9px;
+  left: calc(50% + 149.5px);
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+.log-out9 {
+  position: relative;
+}
+.logout9 {
+  position: absolute;
+  top: 197px;
+  left: 1737px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-orangered);
+  width: 133px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mini) var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-arima-madurai);
+}
+.naviback9 {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1207.4px;
+  height: 41px;
+  display: none;
+}
+.about-us9,
+.equipments18,
+.home9,
+.locker-system9,
+.payments9,
+.registration9,
+.sports9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 57.4px;
+  height: 17.1px;
+}
+.about-us9,
+.equipments18,
+.locker-system9,
+.payments9,
+.registration9,
+.sports9 {
+  left: 91.5px;
+  color: var(--color-black);
+  width: 80.6px;
+}
+.equipments18,
+.locker-system9,
+.payments9,
+.registration9,
+.sports9 {
+  left: 192.6px;
+  width: 99px;
+}
+.equipments18,
+.locker-system9,
+.payments9,
+.sports9 {
+  left: 312.1px;
+  width: 83.3px;
+}
+.equipments18,
+.locker-system9,
+.sports9 {
+  left: 415.9px;
+  width: 97.7px;
+}
+.locker-system9,
+.sports9 {
+  left: 534.1px;
+  width: 59.4px;
+}
+.locker-system9 {
+  left: 608px;
+  width: 125.7px;
+  height: 16.4px;
+}
+.facilities9 {
+  left: 747px;
+  width: 78.5px;
+  height: 17.1px;
+}
+.classes9,
+.daily-events9,
+.facilities9,
+.special-programmes9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.daily-events9 {
+  left: 837px;
+  width: 102.4px;
+  height: 17.1px;
+}
+.classes9,
+.special-programmes9 {
+  left: 949px;
+  width: 72.4px;
+}
+.special-programmes9 {
+  left: 1024px;
+  font-size: 17.92px;
+  width: 194.2px;
+}
+.navigationbar9 {
+  position: absolute;
+  top: 205px;
+  left: 375px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 1218px;
+  height: 48px;
+  overflow: hidden;
+}
+.header9,
+.uopname-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.uopname-icon9 {
+  width: 368px;
+  height: 259px;
+  object-fit: cover;
+}
+.header9 {
+  width: 1917px;
+  height: 260px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 61.46px;
+  font-family: var(--font-inter);
+}
+.shadow,
+.topicbackimg-icon {
+  position: absolute;
+  border-radius: var(--br-41xl);
+}
+.topicbackimg-icon {
+  top: -56px;
+  left: calc(50% - 905px);
+  width: 1810px;
+  height: 646px;
+  object-fit: cover;
+}
+.shadow {
+  top: 0;
+  left: 0;
+  background: linear-gradient(89.86deg, #fff, rgba(157, 157, 157, 0) 63.54%);
+  width: 1698px;
+  height: 534px;
+}
+.topicbooking {
+  position: absolute;
+  top: 78px;
+  left: calc(50% - 765px);
+  font-size: 128px;
+  font-weight: 900;
+}
+.check-the-availability {
+  margin: 0;
+}
+.span {
+  font-size: var(--font-size-14xl);
+}
+.topicbooking1 {
+  position: absolute;
+  top: 253px;
+  left: calc(50% - 754px);
+  font-weight: 900;
+  font-size: var(--font-size-13xl);
+}
+.equipment-booking {
+  position: relative;
+  font-weight: 900;
+}
+.quipmentbookingbutton {
+  left: 95px;
+  width: 404px;
+  padding: var(--padding-3xs) var(--padding-3xs) 0;
+}
+.indoorbookingbutton,
+.outdoorbookingbutton,
+.quipmentbookingbutton {
+  position: absolute;
+  top: 411px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red);
+  box-shadow: 6px 12px 9px rgba(0, 0, 0, 0.25);
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.outdoorbookingbutton {
+  left: calc(50% - 251px);
+  width: 486px;
+  padding: var(--padding-3xs) var(--padding-3xs) 0;
+}
+.indoorbookingbutton {
+  left: 1183px;
+  width: 453px;
+  padding: var(--padding-3xs) 24px 0 var(--padding-3xs);
+}
+.bookingheader1,
+.bookingheader2 {
+  position: absolute;
+  width: 1698px;
+  height: 534px;
+}
+.bookingheader2 {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.bookingheader1 {
+  top: 307px;
+  left: 110px;
+  border-radius: var(--br-41xl);
+  font-size: var(--font-size-14xl);
+  font-family: var(--font-arima-madurai);
+}
+.bookingheader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 5172px;
+  overflow: hidden;
+}
+.equipment {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.equipmenttopic {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  background: linear-gradient(180deg, #f6b1b1, rgba(179, 177, 246, 0.89));
+  box-shadow: 0 22px 40px rgba(0, 0, 0, 0.25);
+  width: 1698px;
+  height: 146px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.search-or-select {
+  position: absolute;
+  top: 290px;
+  left: 150px;
+  font-size: 48px;
+  font-family: var(--font-arvo);
+  display: inline-block;
+  width: 856px;
+  height: 77px;
+}
+.gototopicon {
+  position: relative;
+  width: 54px;
+  height: 55px;
+  object-fit: cover;
+}
+.gototop {
+  position: absolute;
+  top: 3379px;
+  left: 1573px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+}
+.weightliftingimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 4px;
+  left: 80px;
+  width: 225px;
+  height: 228px;
+  object-fit: cover;
+  z-index: 0;
+}
+.weightlifting {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.swimmingimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 44px;
+  left: 44px;
+  width: 284px;
+  height: 158px;
+  object-fit: cover;
+  z-index: 0;
+}
+.swimming {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.trackandfieldimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 32px;
+  left: 45px;
+  width: 282px;
+  height: 191px;
+  object-fit: cover;
+  z-index: 0;
+}
+.trackandfield {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row7 {
+  position: absolute;
+  top: 2897px;
+  left: 188px;
+  width: 1352px;
+  height: 343px;
+  overflow: hidden;
+}
+.wrestlingimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 22px;
+  left: 16px;
+  width: 308px;
+  height: 218px;
+  object-fit: cover;
+  z-index: 0;
+}
+.wrestling {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.kickboxingimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 28px;
+  left: 64px;
+  width: 254px;
+  height: 204px;
+  object-fit: cover;
+  z-index: 0;
+}
+.kickboxing {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 7px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 312px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.taekwondoimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 16px;
+  left: 63px;
+  width: 245px;
+  height: 218px;
+  object-fit: cover;
+  z-index: 0;
+}
+.taekwondo {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row6,
+.taekwondo,
+.tennis2 {
+  position: absolute;
+}
+.row6 {
+  top: 2491px;
+  left: 188px;
+  width: 1352px;
+  height: 342px;
+  overflow: hidden;
+}
+.tennis2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 3px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.volleyballimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: 39px;
+  width: 293px;
+  height: 232px;
+  object-fit: cover;
+  z-index: 0;
+}
+.volleyball2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.rugbyimg-icon {
+  margin: 0 !important;
+  top: 0;
+  left: 70px;
+  width: 231px;
+  height: 242px;
+  object-fit: cover;
+  z-index: 0;
+}
+.row5,
+.rugby2,
+.rugbyimg-icon {
+  position: absolute;
+}
+.rugby2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 3px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row5 {
+  top: 2086px;
+  left: 188px;
+  width: 1352px;
+  height: 341px;
+  overflow: hidden;
+}
+.netballimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 27px;
+  left: 73px;
+  border-radius: var(--br-97xl-5);
+  width: 226px;
+  height: 222px;
+  object-fit: cover;
+  z-index: 0;
+}
+.netball2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.karate,
+.karateimg-icon,
+.netball2 {
+  position: absolute;
+  top: 14px;
+}
+.karateimg-icon {
+  margin: 0 !important;
+  left: 49px;
+  width: 274px;
+  height: 247px;
+  object-fit: cover;
+  z-index: 0;
+}
+.karate {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  left: 477px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.tabletennisimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 14px;
+  left: 61px;
+  width: 250px;
+  height: 222px;
+  object-fit: cover;
+  z-index: 0;
+}
+.tabletennis1 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 14px;
+  left: 956px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.elle1,
+.row4,
+.tabletennis1 {
+  position: absolute;
+}
+.row4 {
+  top: 1667px;
+  left: 187px;
+  width: 1353px;
+  height: 353px;
+  overflow: hidden;
+}
+.elle1 {
+  margin: 0 !important;
+  top: 248px;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 371px;
+  z-index: 1;
+}
+.elle,
+.footballtimg-icon {
+  position: absolute;
+  top: 11px;
+}
+.elle {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  left: 1px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 373px;
+  height: 312px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.footballtimg-icon {
+  margin: 0 !important;
+  left: 86px;
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  z-index: 0;
+}
+.football {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 312px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.hockeyimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: 59px;
+  width: 254px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+.cricket {
+  margin: 0 !important;
+  top: 245px;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 371px;
+  z-index: 1;
+}
+.cricket,
+.hockey2,
+.row3 {
+  position: absolute;
+}
+.hockey2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row3 {
+  top: 1262px;
+  left: 188px;
+  width: 1352px;
+  height: 350px;
+  overflow: hidden;
+}
+.carromimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 27px;
+  left: 32px;
+  width: 306px;
+  height: 201px;
+  object-fit: cover;
+  z-index: 0;
+}
+.carrom2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 32px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 367px;
+  height: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.chessimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 30px;
+  left: 58px;
+  width: 290px;
+  height: 213px;
+  object-fit: cover;
+  z-index: 0;
+}
+.chess {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 31px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.cricketimg-icon {
+  margin: 0 !important;
+  top: 13px;
+  left: 70px;
+  width: 232px;
+  height: 229px;
+  object-fit: cover;
+  z-index: 0;
+}
+.cricket1,
+.cricketimg-icon,
+.row2 {
+  position: absolute;
+}
+.cricket1 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 31px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row2 {
+  top: 834px;
+  left: 188px;
+  width: 1352px;
+  height: 374px;
+  overflow: hidden;
+}
+.batminton2,
+.batmintonimg-icon {
+  position: absolute;
+  margin: 0 !important;
+}
+.batmintonimg-icon {
+  top: 22px;
+  left: 38px;
+  width: 294px;
+  height: 205px;
+  object-fit: cover;
+  z-index: 0;
+}
+.batminton2 {
+  top: 238px;
+  left: 20px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 330px;
+  z-index: 1;
+}
+.batminton,
+.batminton1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.batminton1 {
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 370px;
+  height: 307px;
+  position: relative;
+  gap: var(--gap-28xl);
+}
+.batminton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 10px;
+  left: -6px;
+}
+.baseball4,
+.baseballimg-icon {
+  position: absolute;
+  margin: 0 !important;
+}
+.baseballimg-icon {
+  top: 22px;
+  left: 64px;
+  width: 225px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+.baseball4 {
+  top: 245px;
+  left: 22px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 330px;
+  z-index: 1;
+}
+.baseball2,
+.baseball3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.baseball3 {
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 377px;
+  height: 309px;
+  position: relative;
+  gap: var(--gap-28xl);
+}
+.baseball2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 7px;
+  left: 466px;
+}
+.basketballimg-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: 89px;
+  width: 194px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+.basketball {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 952px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 373px;
+  height: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row1 {
+  position: absolute;
+  top: 445px;
+  left: 191px;
+  width: 1349px;
+  height: 358px;
+  overflow: hidden;
+}
+.searchbackground {
+  position: relative;
+  border-radius: 50px;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 526px;
+  height: 41px;
+  z-index: 0;
+}
+.searchicon,
+.searchinput {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  margin: 0 !important;
+}
+.searchicon {
+  cursor: pointer;
+  padding: 0;
+  top: 6px;
+  left: 512px;
+  border-radius: 28px;
+  width: 30px;
+  height: 29px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  background-image: url(/public/searchicon@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.searchinput {
+  font-family: var(--font-arvo);
+  font-size: 19px;
+  top: 9px;
+  left: 23px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 2;
+}
+.searchbar {
+  position: absolute;
+  top: 262px;
+  left: 1146px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.booking,
+.equipmentbookingpage {
+  background-color: var(--color-powderblue);
+  overflow: hidden;
+}
+.equipmentbookingpage {
+  position: absolute;
+  top: 908px;
+  left: calc(50% - 848.5px);
+  border-radius: 30px;
+  box-shadow: 0 0 30px 16px rgba(0, 0, 0, 0.25);
+  width: 1698px;
+  height: 3490px;
+  font-size: 75px;
+  font-family: var(--font-arima-madurai);
+}
+.booking {
+  position: relative;
+  width: 100%;
+  height: 5172px;
+  text-align: left;
+  font-size: 27.32px;
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
